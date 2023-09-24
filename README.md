@@ -4,7 +4,6 @@ The ImageScout is a web application that allows you to search for images on the 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
@@ -12,8 +11,6 @@ The ImageScout is a web application that allows you to search for images on the 
 - [Future Updates](#future-updates)
 - [License](#license)
 
-## Demo
-You can experience the Image Search App live by visiting [this link](https://image-scout.vercel.app/).
 
 ## Features
 
