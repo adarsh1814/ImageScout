@@ -14,7 +14,6 @@ The ImageScout is a web application that allows you to search for images on the 
 
 ## Demo
 
-You can experience the Image Search App live by visiting this link -->  image-scout.vercel.app).
 
 ## Features
 
@@ -37,4 +36,4 @@ To run the Image Search App locally, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone
+git clone 
