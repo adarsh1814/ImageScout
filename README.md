@@ -36,4 +36,4 @@ To run the Image Search App locally, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone 
+git clone  https://github.com/adarsh1814/ImageScout.git
